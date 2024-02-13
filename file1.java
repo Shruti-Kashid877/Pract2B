@@ -2,7 +2,11 @@ Class file1
 { 
   pubic static void main(String args[])
   {
-    System.out.println("Shruti Kashid 034");
+
+    int a = 10;
+    int b = 20;
+    int c = a+b;
+    System.out.println(c);
   }
   
 }
